@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-Mile-and-Kilometer-Calculator ⚙️  
 
-Convert Between F and C
+Convert Between Mile and Kilometer
 
 </div>

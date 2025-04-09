@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-Average-Calculator ⚙️  
 
-Convert Between F and C
+Calculate averages of 2 or 3 numbers
 
 </div>

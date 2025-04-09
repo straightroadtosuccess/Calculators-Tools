@@ -2,6 +2,6 @@
 
 # 🧮 My-Inch-and-Centimeter-Calculator ⚙️  
 
-Convert Between F and C
+Convert Between Inch and Centimeter
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-Inch-and-Centimeter-Calculator ⚙️  
 
 Convert Between F and C
 

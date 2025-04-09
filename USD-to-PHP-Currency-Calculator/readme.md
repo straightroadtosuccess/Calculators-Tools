@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 USD-to-PHP-Currency-Calculator ⚙️  
 
-Convert Between F and C
+Convert Between US Dollars and Philippine Pesos
 
 </div>

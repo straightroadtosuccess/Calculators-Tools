@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-Percentage-Calculator ⚙️  
 
-Convert Between F and C
 
 </div>

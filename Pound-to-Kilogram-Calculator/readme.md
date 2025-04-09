@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 Pound-to-Kilogram-Calculator ⚙️  
 
-Convert Between F and C
+Convert Between Lb and Kg
 
 </div>

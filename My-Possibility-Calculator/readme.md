@@ -1,4 +1,7 @@
+<div align="center">
 
-<h2>My Possibility Calculator</h2>
+# 🧮 >My Possibility Calculator ⚙️  
+
+</div>
 
 Possible Amount of Number Combinations Calculator

@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-AI-Singularity-Calculator ⚙️  
 
-Convert Between F and C
+AI Singularity Overdrive Calculator: Predicting the speed cognitive leap of recursive self-improvement compared to millions of human minds
 
 </div>

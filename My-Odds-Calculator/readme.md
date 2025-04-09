@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🧮 My-F-and-C-Temperature-Calculator ⚙️  
+# 🧮 My-Odds-Calculator ⚙️  
 
-Convert Between F and C
+Calculate odds to 95% chance
 
 </div>
